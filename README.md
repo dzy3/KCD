@@ -1,7 +1,7 @@
 # Knowledge Condensation Distillation (ECCV 2022)([Link](xxx))
 A Pytorch Implementation of ''Knowledge Condensation Distillation''. 
 
-<div align=center><img src="img/fig2_v8.pdf" height = "60%" width = "70%"/></div>
+<div align=center><img src="img/framework.png" height = "60%" width = "70%"/></div>
 
 ## Introduction
 In this project, we use Ubuntu 16.04.5, Python 3.7, Pytorch 1.9.1 and CUDA 10.2. 
