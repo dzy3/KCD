@@ -1,4 +1,4 @@
-# Knowledge Condensation Distillation (ECCV 2022)([Link](xxx))
+# Knowledge Condensation Distillation (ECCV 2022)([Link](https://arxiv.org/abs/2207.05409))
 A Pytorch Implementation of ''Knowledge Condensation Distillation''. 
 
 <div align=center><img src="img/framework.png" height = "60%" width = "70%"/></div>
