@@ -35,7 +35,7 @@ All the commands can be found in folder scripts.
 
 ## Citation
 
-If you find this repository useful, please cite our paper:
+If you find this repository useful, please cite our paper.
 
 
 ## Acknowledgement
