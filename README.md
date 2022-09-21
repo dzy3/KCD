@@ -35,7 +35,14 @@ All the commands can be found in folder scripts.
 
 ## Citation
 
-If you find this repository useful, please cite our paper.
+If you find this repository useful, please cite our paper
+
+@article{li2022knowledge,
+  title={Knowledge Condensation Distillation},
+  author={Li, Chenxin and Lin, Mingbao and Ding, Zhiyuan and Lin, Nie and Zhuang, Yihong and Huang, Yue and Ding, Xinghao and Cao, Liujuan},
+  journal={arXiv preprint arXiv:2207.05409},
+  year={2022}
+}
 
 
 ## Acknowledgement
