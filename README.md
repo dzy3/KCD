@@ -35,8 +35,7 @@ All the commands can be found in folder scripts.
 
 ## Citation
 
-If you find this repository useful, please cite our paper
-
+If you find this repository useful, please consider citing our paper, thanks.
 ```
 @article{li2022knowledge,
   title={Knowledge Condensation Distillation},
