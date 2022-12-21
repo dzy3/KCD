@@ -24,7 +24,7 @@ sh scripts/fetch_pretrained_teachers.sh
 ```
 which will download and save the models to `save/models`
 
-An example of student training is:
+An example of student training by the proposed KCD is:
 
 ```
 python super_train_student.py --epochs 240 --path_t ./save/models/resnet32x4_vanilla/ckpt_epoch_240.pth \
